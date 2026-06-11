@@ -1,7 +1,9 @@
 # SOC Notes
 
-My cybersecurity learning repository.
+soc stand for security operational central some say it is the heart of the security 
 
-## Topics Covered
-
-### SOC Fundamentals
+# SOC KEYFUNCTIONS
+[] Monitoring and detection
+[] Incident Response
+[] Forensic Analysis
+[] Malware Analysis
