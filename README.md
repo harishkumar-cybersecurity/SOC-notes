@@ -4,6 +4,5 @@ soc stand for security operational central some say it is the heart of the secur
 
 ## SOC KEYFUNCTIONS
 - [ ] Monitoring and detection
-- [ ]Incident Response
 - [ ] Forensic Analysis
 - [ ] Malware Analysis
