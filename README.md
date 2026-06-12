@@ -35,3 +35,21 @@ soc stand for security operational central some say it is the heart of the secur
  - likehood of a threat exploit vulnerbility
  - potential for loss and damage when therat occurs
 
+
+## LOG
+- LOG is a record of events or actions that have occurred within a system
+- used for monitoring and trouble shooting security incidents
+  
+## Security Event
+- any observable occurrence that has potentiality significance for security
+(eg:multiplelogginattempts)
+- All incidents are events but not all events are incidents
+
+  ## Security incident
+  -An occurrence that actually harms or jeopardizes information or a systems
+  -constitutes a violation of law,security policies.procedures,or acceptable use
+  
+## Alert
+- Anotification geneated by security system or personnel
+- indication of a potential security issue or suspicious activity
+- 
